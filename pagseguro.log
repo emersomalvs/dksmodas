@@ -1,0 +1,7 @@
+
+17/02/2020 22:23:59 PagSeguro.Session[info]: Begin
+17/02/2020 22:23:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+17/02/2020 22:24:01 PagSeguro.Session[error]: Unauthorized
+27/02/2020 08:08:09 PagSeguro.Session[info]: Begin
+27/02/2020 08:08:10 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+27/02/2020 08:08:11 PagSeguro.Session[error]: Unauthorized
